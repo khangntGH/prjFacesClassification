@@ -1,4 +1,4 @@
-# Facies Classification
+# Facies Classification - KhangNT
 
 ## Introduction
 Facies Classification Using a new Deep Learning Method
